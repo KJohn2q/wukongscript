@@ -1,0 +1,397 @@
+1560432422450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zlmnh\\AppData\\Local\\Temp\\rust_mozprofile.iVbfh0Xp9CIm"
+1560432424293	addons.webextension.{E0B8C461-F8FB-49b4-8373-FE32E9252800}	WARN	Loading extension '{E0B8C461-F8FB-49b4-8373-FE32E9252800}': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+1560432425957	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+1560432426199	Marionette	INFO	Listening on port 1630
+1560432426390	Marionette	WARN	TLS certificate errors will be ignored for this session
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+JavaScript warning: http://ask.zol.com.cn/js/ask/ask.js, line 101: unreachable code after return statement
+JavaScript error: http://znsv.baidu.com/customer_search/api/js?sid=7490613033886828738&plate_url=http%3A%2F%2Fwww.mamicode.com%2Finfo-detail-1487514.html&t=433454, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.mamicode.com/js/mamicodejs.js, line 77: TypeError: xt_obj is null
+_create_dc_and_bitmap: 操作成功完成。
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn[Parent 17432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17696, Chrome_ChildThrea[Child 18376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18376, Chr[Parent 17432, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18260, Chro1560432817279	Marionette	INFO	Stopped listening on port 1764
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cript error: https://csdnimg.cn/public/common/indexSuperise/1.0.9/indexSuperise.js?20190610152002, line 1: ReferenceError: VIDEO_STIMULATION is not defined
+[Parent 10852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: moz-extension://93406acd-ba18-46d3-8946-21864a90e3c2/js/common/Browser.js, line 3: Error: Message manager disconnected
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+[Parent 10852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_c[Child hannel16156, Chrome_ChildThr_win.cc,e linea 341
+d[C] hild 15124, ChromWe_CARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16156, Chrome_Chil[Parent 10852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1[Parent 10852, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 3388, Chrom
+###!!! [Child][MessageChannel] Error: (msgtype=0x360113,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+e_ChildThread] WARNING: pipe error: 1560432577456	Marionette	INFO	Stopped listening on port 1630
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/s
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560432829078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zlmnh\\AppData\\Local\\Temp\\rust_mozprofile.ncczHbJPRA4t"
+1560432830874	addons.webextension.{E0B8C461-F8FB-49b4-8373-FE32E9252800}	WARN	Loading extension '{E0B8C461-F8FB-49b4-8373-FE32E9252800}': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+1560432831936	Marionette	INFO	Listening on port 3572
+1560432831959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560432832024	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+[Parent 16552, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12252, Chrome_ChildThread[Child 2356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2356, Chrome_Chi[Parent 16552, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16252, Chrome_ChildThread]1560432873928	Marionette	INFO	Stopped listening on port 3572
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560433043479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zlmnh\\AppData\\Local\\Temp\\rust_mozprofile.CgLYJrZsC2W0"
+1560433045230	addons.webextension.{E0B8C461-F8FB-49b4-8373-FE32E9252800}	WARN	Loading extension '{E0B8C461-F8FB-49b4-8373-FE32E9252800}': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+1560433046854	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing options_page: An unexpected property was found in the WebExtension manifest.
+1560433047077	Marionette	INFO	Listening on port 4536
+1560433047460	Marionette	WARN	TLS certificate errors will be ignored for this session
+Log warning: The log 'Services.Common.RESTRequest' is configured to use the preference 'services.common.log.logger.rest.request' - you must adjust the level by setting this preference, not by using the level setter
+JavaScript warning: http://ask.zol.com.cn/js/ask/ask.js, line 101: unreachable code after return statement
+JavaScript error: http://znsv.baidu.com/customer_search/api/js?sid=7490613033886828738&plate_url=http%3A%2F%2Fwww.mamicode.com%2Finfo-detail-1487514.html&t=433454, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.mamicode.com/js/mamicodejs.js, line 77: TypeError: xt_obj is null
+_create_dc_and_bitmap: 操作成功完成。
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://csdnimg.cn[Child 14076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14076, Chrome_ChildThread] WARNING: pipe error:[Parent 16436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/ch[Parent 16436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560433190281	Marionette	INFO	Stopped listening on port 4672
+
+###!!! [Child][RunMExtension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+Extension error: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIDOMWindowUtils.removeSheetUsingURIString]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/ExtensionCommon.jsm :: runSafeSyncWithoutClone :: line 65"  data: no] undefined 65
+[[Exception stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:65:12
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionCommon.jsm:67:129
+cleanup@resource://gre/modules/ExtensionContent.jsm:353:11
+close@resource://gre/modules/ExtensionContent.jsm:814:14
+inner-window-destroyed@resource://gre/modules/ExtensionContent.jsm:889:19
+observe@resource://gre/modules/ExtensionContent.jsm:905:27
+]]
+[Parent 5076, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5076, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Chiild ld 118052, 59Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18052, [Parent 5076, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18256, Chrome_ChildThread] WARNING: pipe error
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 17572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559936101/build/src/ipc/chromium/src/chrome/common/ipc_c
+###!!! [Child][MessageChannel] Error: (msgtype=0x360113,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+hannel_win.cc, line 341
+1560433195848	Marionette	INFO	Stopped listening on port 4536
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16660, Chrome_ChildThread] WARNING
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
